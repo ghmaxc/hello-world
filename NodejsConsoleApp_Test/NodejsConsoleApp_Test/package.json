@@ -1,0 +1,9 @@
+{
+  "name": "nodejs-console-app_test",
+  "version": "0.0.0",
+  "description": "NodejsConsoleApp_Test",
+  "main": "app.js",
+  "author": {
+    "name": "maximc"
+  }
+}
